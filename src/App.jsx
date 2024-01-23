@@ -1,3 +1,5 @@
+import './App.css'
+
 import {GrFormNext, GrFormPrevious} from 'react-icons/gr';
 import {FiSend} from "react-icons/fi"
 import UserForm from './components/UserForm';
